@@ -7,10 +7,13 @@
 
 ## Connect with me:
 
-[<img align = "left" alt = "Deepanshu Thakran | LinkedIn" width = "22px" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" />][linkedin]
-[<img align = "left" alt = "Deepanshu Thakran | GitHub" width = "22px" src = "https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" />][github]
+[![linkedin](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png)][1]
+[![github](https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png)][2]
+
+<!-- [<img align = "left" alt = "Deepanshu Thakran | LinkedIn" width = "22px" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" />][linkedin]
+[<img align = "left" alt = "Deepanshu Thakran | GitHub" width = "22px" src = "https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" />][github] -->
 
 <br />
 <br />
-[linkedin]: https://www.linkedin.com/in/deepanshu-thakran-484634195
-[github]: https://github.com/Deepanshu-Thakran
+[1]: https://www.linkedin.com/in/deepanshu-thakran-484634195
+[2]: https://github.com/Deepanshu-Thakran
