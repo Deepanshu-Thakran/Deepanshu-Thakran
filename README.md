@@ -7,8 +7,8 @@
 
 ## Connect with me:
 
-[<ing align = "left" alt = "Deepanshu Thakran | LinkedIn" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg" />][linkedin]
-[<ing align = "left" alt = "Deepanshu Thakran | GitHub" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/github.svg" />][github]
+[<img align = "left" alt = "Deepanshu Thakran | LinkedIn" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg" />][linkedin]
+[<img align = "left" alt = "Deepanshu Thakran | GitHub" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/github.svg" />][github]
 
 <br />
 <br />
