@@ -1,4 +1,4 @@
-### Hi there, I'm Deepanshu Thakran
+# Hi there, I'm Deepanshu Thakran
 
 ## I'm from India
 - 🏫 I'm currently pursuing B.Tech CSE from Amity University, Haryana
