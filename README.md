@@ -3,7 +3,7 @@
 ## I'm from India
 - 🏫 Software Developer at Extramarks Education India Pvt. Ltd.
 - 🌱 I'm currently learning everything 
-- 📚 Java, Python, Flutter, Firebase, IoT, Computer Vision, C/C++
+- 📚 Java, Python, Spring Boot, Flutter, Firebase, MongoDB, IoT, Computer Vision, C/C++
 - 💻 Visual Studio Code, IntelliJ, PyCharm, Arduino IDE, Code::Blocks
 
 ## Connect with me:
