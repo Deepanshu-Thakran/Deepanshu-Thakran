@@ -5,9 +5,9 @@
 </div>
 
 ## I'm from India
-- 🏫 Software Developer at Extramarks Education India Pvt. Ltd.
+- 🏫 Sr. Software Developer at Extramarks Education India Pvt. Ltd.
 - 🌱 I'm currently learning everything 
-- 📚 Java, Python, Spring Boot, Flutter, Firebase, Neo4j, SQL, MongoDB, IoT, Computer Vision, C/C++
+- 📚 Java, Spring Boot, Hibernate, Spring Data JPA, Redis, Kafka, Flutter, Firebase, Neo4j, SQL, MongoDB
 - 💻 Visual Studio Code, IntelliJ, PyCharm, Arduino IDE, Code::Blocks
 
 ## Connect with me:
